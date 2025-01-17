@@ -1,13 +1,13 @@
 name = "Towns and Towers"
-filename = "t_and_t-1.13.1b.jar"
+filename = "Towns-and-Towers-1.12-Fabric+Forge.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/DjLobEOy/versions/cjQk2Nq8/t_and_t-1.13.1b.jar"
+url = "https://cdn.modrinth.com/data/DjLobEOy/versions/7ZwnSrVW/Towns-and-Towers-1.12-Fabric%2BForge.jar"
 hash-format = "sha512"
-hash = "9b3d8e2090d09fd8901d3b6a7b90920a7c8c4a25c4ae44969cde6b8d2e8a4940459c4f415fd33ec77e170cc44a3e1eee8d04b12fb7eeb7ee58c2487be471c73d"
+hash = "ed734046c356bb996b628c2e0c47e64ba598c87016591fd77533069de68f27b8bfdcd2173d7d3db97f1981ebb806133c3d1751c330d539ade3d6c37ed2d5598f"
 
 [update]
 [update.modrinth]
 mod-id = "DjLobEOy"
-version = "cjQk2Nq8"
+version = "7ZwnSrVW"

@@ -1,13 +1,13 @@
 name = "Forgotten Graves"
-filename = "forgottengraves-3.2.18+1.20.4.jar"
+filename = "forgottengraves-3.2.18+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FrZIkosK/versions/YjFjntxo/forgottengraves-3.2.18%2B1.20.4.jar"
+url = "https://cdn.modrinth.com/data/FrZIkosK/versions/hl5Pr83o/forgottengraves-3.2.18%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "3a79ac775ee4fff3e82f2a53759699634c70ed96515cd1384ecdb6eeeb5e4e082be4a2d34accc000f32e1e4b424af11fed8c480118807d8c8de65fc0b5d49a12"
+hash = "a0ca0f82015fe2ba652ca20c67a282d8dfcab05018a78d83823d63b05fce90ead2fb7c84a13801d766a16ce9ee60267a0af4965831b5c99f77605ea1e744d560"
 
 [update]
 [update.modrinth]
 mod-id = "FrZIkosK"
-version = "YjFjntxo"
+version = "hl5Pr83o"

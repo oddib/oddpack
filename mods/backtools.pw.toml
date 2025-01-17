@@ -1,13 +1,13 @@
 name = "BackTools"
-filename = "backtools-1.20.4-0.jar"
+filename = "backtools-1.20.1-2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/9o4YEocr/versions/Ho7B2Byk/backtools-1.20.4-0.jar"
+url = "https://cdn.modrinth.com/data/9o4YEocr/versions/RvsqQ8AH/backtools-1.20.1-2.jar"
 hash-format = "sha512"
-hash = "6d16a9b6920a6f4414cd70dfe2aea7b610805aed611cafcc5129c251b6f92018917ae28d170f06c370b72e4a155e00d06c9503853f59a3323032b70242e9aae5"
+hash = "e5ea305e76036e17b6323c441680aa6bcbb47a2bd8bae169e74804451ba664a8828c767da59f3ce5d40b0c4417638ffb5e3344a1f5fb24a61c795e7959b68501"
 
 [update]
 [update.modrinth]
 mod-id = "9o4YEocr"
-version = "Ho7B2Byk"
+version = "RvsqQ8AH"
