@@ -1,0 +1,13 @@
+name = "Throwable Fire Charges"
+filename = "throwable-fire-charges-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/epLjD126/versions/CZzGskIe/throwable-fire-charges-1.jar"
+hash-format = "sha512"
+hash = "f5218149bc4ffcfc98b31276ad48213b63ddd0a7151aa3d40c737a52c5623af4bf2254329b1b271eed0a37c8485786f2125cbcdfd8778fdc401823cee3fdc8e7"
+
+[update]
+[update.modrinth]
+mod-id = "epLjD126"
+version = "CZzGskIe"

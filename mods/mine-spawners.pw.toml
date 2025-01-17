@@ -1,0 +1,13 @@
+name = "Mine Spawners"
+filename = "mine-spawners-1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/7VESbzyX/versions/bWStfpRL/mine-spawners-1.2.jar"
+hash-format = "sha512"
+hash = "98d887faae2d9b57f4b79a33fc68d86216fe337b12ea0288051943f7acdbd335f28a588f7211337452a5d808a31325240c01ab7b63fd5539690dc3e38cd5c622"
+
+[update]
+[update.modrinth]
+mod-id = "7VESbzyX"
+version = "bWStfpRL"

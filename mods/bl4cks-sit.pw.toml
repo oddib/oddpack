@@ -1,0 +1,13 @@
+name = "Sit"
+filename = "sit-1.20.4-27.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VKXzIykF/versions/AYOoBok6/sit-1.20.4-27.jar"
+hash-format = "sha512"
+hash = "9cac021cb52b775f3c85125a6d2cfc14cca29ae2a28a71824298f45b48c676496ce1194f91b788ad4e62c1e1130fb3ee423c594f4d413391f567113d206b1403"
+
+[update]
+[update.modrinth]
+mod-id = "VKXzIykF"
+version = "AYOoBok6"
