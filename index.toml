@@ -128,11 +128,6 @@ hash = "e3542efde2011e7315bb2bda8c0f32a4eda47299f82a462d2a78c93c23997752"
 metafile = true
 
 [[files]]
-file = "mods/ante.pw.toml"
-hash = "2f2803a54635b299472fa91b2e12ad1052ff98d13ffd80fed02bd8d927d4186a"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
