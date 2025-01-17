@@ -138,6 +138,11 @@ hash = "bcea43f1396949332eb41ee3807dce173b9628f457d6d55594d993426c60b0f0"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
+metafile = true
+
+[[files]]
 file = "mods/attributes.pw.toml"
 hash = "e95fa9182c8e7a24ff4a0061cc5834c4c0f07b96af725d1ffc69a2a8cc0669b8"
 metafile = true
@@ -145,6 +150,11 @@ metafile = true
 [[files]]
 file = "mods/backtools.pw.toml"
 hash = "23b603d8f62a97590aecb93f22eaf6ccf2b11a691e7e5aeb1a615c32cb5d406b"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "2b153d649184fcf793de475b3b3beaf238f7b558226ffc57896096a7ddcd99ad"
 metafile = true
 
 [[files]]
@@ -158,6 +168,11 @@ hash = "92b54fed693e725faa96e793b643cb5245494643830f2a4e277d6c7150368e7d"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
@@ -168,13 +183,18 @@ hash = "507e08d6d797ba89b1934e94d25b0bfa6143a9576af3412aa91615e3bfae4d8d"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "2e7e61c40186800ae0492a6fc6aed81793d66ffabd39f7c57713fa74a1547ce8"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
@@ -195,6 +215,16 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
+metafile = true
+
+[[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "96b0da15913458b2d1aa9ba1f95bb55ea34867625e0018f4c765562dab055313"
 metafile = true
 
 [[files]]
@@ -228,6 +258,11 @@ hash = "bce0feec0173346982b9aa7b5ea98876804a3e56931c254de1c69e78cd45b1b5"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "876de3cd813af6dc432a008f30a8356eed1a57bc43b90dbd84b7336637b1ae81"
 metafile = true
@@ -235,6 +270,11 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "31e031e1e75b551ed02507dead1e3bb12a22dc7c2bb2658312cc8f6950eb0755"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "8ca413f9c2a155068d71e0057b23d8a199473fb78b37fe1ea864b5455e997a26"
 metafile = true
 
 [[files]]
@@ -269,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "070f3b65efd84e7d28e84d819e94f1d886ebb9df0d2c8e2e5acc168966a34f67"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
@@ -348,6 +388,11 @@ hash = "71a26ef25c317259238a5ec2e5929f68073ced1882145d1122815d33711d2ab2"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "4b2d106ce00d09612a66ced11538304eedc540267a285976da54da8f2f624eb2"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "d11159f80df30571247f878dfcec328468472c7a5dbd11d3f6ab074b355d1836"
 metafile = true
@@ -360,6 +405,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "39d1aa66bf641027827a4bfcfe2c088ad6506405b0ff603fd65b1a9828d40c94"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "b66a3d19ffb4c3c122f3844421dee04acbcf1a7a6fadb277ea803ca9dd96e4b5"
 metafile = true
 
 [[files]]
@@ -472,6 +522,11 @@ hash = "37761c6e41d9bc54a134466c8e60a95b1d12293cbabebc5f47457dd3128b82bd"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "47493d398295964924d386d0fb866dac1a2d5e0cd4692b8436ea2552ce6c99f6"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "18d84c132f116eedf06e967346e98868cca5483f9015cfbc366a35b5eb223971"
 metafile = true
@@ -494,6 +549,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
 hash = "de212d0f51e294cdee8988506672abcb4f87ca0fd329d1ecdb4b1bb2aa4c252d"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "5d8ac00b4b361810f9b79e21b2d250c4302f8949a93ae06fe7c87d7011c04147"
 metafile = true
 
 [[files]]
@@ -524,6 +584,11 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "c95bcf2a24250de6b9abceb73777a4e1e3f2c5af157176c371f6ed84d067b987"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "da92bb637bda631900f4b28604bfa7588ceb8938f7ff7b96b1e1afb54edfbff2"
 metafile = true
 
 [[files]]
