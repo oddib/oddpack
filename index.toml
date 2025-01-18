@@ -458,8 +458,9 @@ hash = "cf9ae5744c15746a004a660dcdb120e8b81a70b56e3d55ce4d1781d494a2fc58"
 metafile = true
 
 [[files]]
-file = "mods/moreculling-1.20.4-0.23.1.jar"
-hash = "400127d8289f59b4df3ddaf121f84cd7ebe3030c1ae159338df48561f4c91634"
+file = "mods/moreculling.pw.toml"
+hash = "dbb344ad3e49c36d167fa05b6c5f674794306b1727220e8720d767264aee497f"
+metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
