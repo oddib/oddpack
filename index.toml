@@ -218,11 +218,6 @@ hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
 metafile = true
 
 [[files]]
-file = "mods/create-track-map.pw.toml"
-hash = "96b0da15913458b2d1aa9ba1f95bb55ea34867625e0018f4c765562dab055313"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "6957ba2519b78040639a1368df90ec5197cb3e0cd24764aed30efce4cb182e6c"
 metafile = true
