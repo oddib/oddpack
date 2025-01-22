@@ -413,11 +413,6 @@ hash = "9c75a2572604803f8e03d00c98ef3b971fad40f9560676d564064a26e32b7a20"
 metafile = true
 
 [[files]]
-file = "mods/mine-spawners.pw.toml"
-hash = "ca5b9437059b1a51b2838967a306b8bfd0eec2c63d7e298a0864ae2eb813e400"
-metafile = true
-
-[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
 metafile = true

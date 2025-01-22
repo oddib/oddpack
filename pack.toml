@@ -1,12 +1,12 @@
 name = "oddpack"
 author = "clone400"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7f46aded4dfe24fdbd1605acbff117a7d8fdefb214edc81c81b482d556db9ca8"
+hash = "8c5f34b7c672f3456b1af7560812a7923b0ac390165ea2704affb3deaa5cdfdf"
 
 [versions]
 fabric = "0.16.10"
