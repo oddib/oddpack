@@ -188,6 +188,11 @@ hash = "dd8057c40ff94e9a21a121583884f71c9a6b1eaa6f913ef46c5d1f9b37fe487f"
 metafile = true
 
 [[files]]
+file = "mods/betternether.pw.toml"
+hash = "2e8023b4e1107227e4adadabdcb48d96b6659134f9174d476899e077c1621a12"
+metafile = true
+
+[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "92b54fed693e725faa96e793b643cb5245494643830f2a4e277d6c7150368e7d"
 metafile = true
@@ -255,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "cf0ea0786cf67b126b589a71f311268eb96bc98f1e4b58467aad45cb9aa24dfd"
+metafile = true
+
+[[files]]
+file = "mods/create-compat-betterend-betternether.pw.toml"
+hash = "fe1c95f4f154e6244f8efbc5f0ea9065f1fde7281943f26e9153935785a85aae"
 metafile = true
 
 [[files]]
